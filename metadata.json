@@ -1,0 +1,5 @@
+{
+  "name": "PromptEngine Database Schema Generator",
+  "description": "An AI-powered application to generate database schemas from natural language descriptions. Describe your app, and Gemini will create a visual schema for you.",
+  "requestFramePermissions": []
+}
